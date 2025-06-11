@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mustundag28
 - 👀 I’m interested in CSE
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently DevOps Engineer
